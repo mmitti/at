@@ -1,0 +1,21 @@
+body {
+    background: #004488;padding: 10px;
+   
+}
+
+.txt{
+    color: #FFFFFF; 
+}
+
+.under-line-info{
+	text-decoration:none;
+	border-bottom:3px solid #5bc0de;
+}
+.under-line-success{
+	text-decoration:none;
+	border-bottom:3px solid #5cb85c;
+} 
+.under-line-warn{
+	text-decoration:none;
+	border-bottom:3px solid #f0ad4e;
+}
